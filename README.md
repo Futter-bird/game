@@ -3,7 +3,7 @@
 # game
 repo onde irei colocar o jogo
 
-
+> no `lib\main.dart` que vc edita as coisas!
 
 ---
 
